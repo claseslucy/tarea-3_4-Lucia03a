@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "tarea 3_4",
+      "setup": "npm install",
+      "run": "npm test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    }
+  ]
+}
